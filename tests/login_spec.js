@@ -8,6 +8,6 @@ await page.locator("#txtUsername").fill("Admin")
 await page.locator("#txtPassword").fill("Qedge123!@#")
 
 await page.locator("#btnLogin").click()
-console.log("a new statement updated...")
+console.log("a new statement ")
 
 })
